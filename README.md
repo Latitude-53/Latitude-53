@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, Latitude-53 👋
 
-<!--
-**Latitude-53/Latitude-53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🍷 Building Open-Source Sensory Psychophysics & Viticultural Systems
 
-Here are some ideas to get you started:
+I develop zero-dependency, offline-first applications and scientific data visualizations at the intersection of enology, genetics, and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🍇 The Enological Suite
+
+| Project | Description | Live Demo |
+| :--- | :--- | :--- |
+| **[🍷 Sommelier SAT Companion](https://github.com/Latitude-53/sommelier-sat-companion)** | Professional offline-first WSET® Level 3 tasting OS. Models Weber–Fechner aroma power ($P_F$), Shannon entropy complexity, salivary acidity waveforms, and parametric aging kinetics | [Launch Web App](https://latitude-53.github.io/sommelier-sat-companion/) |
+| **[🧬 Grape Pedigree Atlas](https://github.com/Latitude-53/grape-pedigree-map)** | Scientific ancestry network & chronological DAG for grapevine (*Vitis spp.*). Features SSR DNA profiles, VIVC citations, Jaccard genetic distance, and family-aware canvas layout. | [Explore Atlas](https://latitude-53.github.io/grape-pedigree-map/) |
+| **[🎮 Sommelier App](https://github.com/Latitude-53/sommelier-app)** | Full-spectrum beverage sensory training game & regional GIS atlas. | [Play / Taste](https://latitude-53.github.io/sommelier-app/) |
+
+---
+*Feel free to star ⭐ the repositories or reach out if you're passionate about sensory science & WineTech!*
